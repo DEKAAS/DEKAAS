@@ -1,6 +1,6 @@
 ✦ Currently on my mission to build my own portfolio 
 --
-✦ Going deep dive in the foundation of HTML, CSS, JAVASCRIPT
+✦ Going deep dive in the foundation of HTML, CSS and JAVASCRIPT
 --
 ✦ Working my way trough the ODIN project!
 --
